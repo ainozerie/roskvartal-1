@@ -1,0 +1,11 @@
+/Users/ainozerie.sergey/Projects/hw/hw/bin/Debug/netcoreapp2.1/hw.deps.json
+/Users/ainozerie.sergey/Projects/hw/hw/bin/Debug/netcoreapp2.1/hw.runtimeconfig.json
+/Users/ainozerie.sergey/Projects/hw/hw/bin/Debug/netcoreapp2.1/hw.runtimeconfig.dev.json
+/Users/ainozerie.sergey/Projects/hw/hw/bin/Debug/netcoreapp2.1/hw.dll
+/Users/ainozerie.sergey/Projects/hw/hw/bin/Debug/netcoreapp2.1/hw.pdb
+/Users/ainozerie.sergey/Projects/hw/hw/obj/Debug/netcoreapp2.1/hw.csprojAssemblyReference.cache
+/Users/ainozerie.sergey/Projects/hw/hw/obj/Debug/netcoreapp2.1/hw.csproj.CoreCompileInputs.cache
+/Users/ainozerie.sergey/Projects/hw/hw/obj/Debug/netcoreapp2.1/hw.AssemblyInfoInputs.cache
+/Users/ainozerie.sergey/Projects/hw/hw/obj/Debug/netcoreapp2.1/hw.AssemblyInfo.cs
+/Users/ainozerie.sergey/Projects/hw/hw/obj/Debug/netcoreapp2.1/hw.dll
+/Users/ainozerie.sergey/Projects/hw/hw/obj/Debug/netcoreapp2.1/hw.pdb
